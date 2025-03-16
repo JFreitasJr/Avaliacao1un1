@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Avaliacao1</string>
+    <string name="button_leave">Leave</string>
+    <string name="button_save">Save</string>
+    <string name="text_name">Name</string>
+    <string name="name_input">João Ninguém</string>
+    <string name="gender_F">Female</string>
+    <string name="gender_M">Male</string>
+    <string name="gender">Sex</string>
+</resources>

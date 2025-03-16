@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avaliacao1</string>
+    <string name="button_leave">Sair</string>
+    <string name="button_save">Salvar</string>
+    <string name="text_name">Nome</string>
+    <string name="name_input">João Ninguém</string>
+    <string name="gender_F">Feminino</string>
+    <string name="gender_M">Masculino</string>
+    <string name="gender">Sexo</string>
+</resources>
